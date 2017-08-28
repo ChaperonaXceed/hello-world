@@ -13,3 +13,10 @@ D:\Test\GitHub\hello-world\hello-world\obj\Debug\hello_world.Properties.Resource
 D:\Test\GitHub\hello-world\hello-world\obj\Debug\hello-world.csproj.GenerateResource.Cache
 D:\Test\GitHub\hello-world\hello-world\obj\Debug\hello-world.exe
 D:\Test\GitHub\hello-world\hello-world\obj\Debug\hello-world.pdb
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.Controls.v6.3.dll
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.DataGrid.Samples.SampleData.dll
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.DataGrid.v6.3.dll
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.Controls.v6.3.xml
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.DataGrid.v6.3.xml
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.Controls.v6.3.XmlSerializers.dll
+D:\Test\GitHub\hello-world\hello-world\bin\Debug\Xceed.Wpf.DataGrid.v6.3.XmlSerializers.dll

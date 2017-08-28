@@ -1,0 +1,16 @@
+
+*.dll
+*.exe
+*.pdb
+*.xml
+hello-world/obj/Debug/MainWindow.g.i.cs
+hello-world/obj/Debug/MainWindow.g.cs
+hello-world/obj/Debug/MainWindow.baml
+hello-world/obj/Debug/hello-world_MarkupCompile.i.cache
+hello-world/obj/Debug/hello-world_MarkupCompile.cache
+hello-world/obj/Debug/hello-world.pdb
+hello-world/obj/Debug/hello-world.g.resources
+hello-world/obj/Debug/hello-world.exe
+hello-world/obj/Debug/hello-world.csprojResolveAssemblyReference.cache
+hello-world/obj/Debug/hello-world.csproj.FileListAbsolute.txt
+hello-world/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
