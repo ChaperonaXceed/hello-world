@@ -25,6 +25,8 @@
          <xceed:DataGridControl.Columns>
             <xceed:Column FieldName="SomeColumn"
                           Title="A column" />
+            <xceed:Column FieldName="SomeOtherColumn"
+                          Title="One more column" />
          </xceed:DataGridControl.Columns>
       </xceed:DataGridControl>
    </Grid>
