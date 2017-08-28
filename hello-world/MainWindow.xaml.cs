@@ -22,6 +22,7 @@ namespace hello_world
   {
     public MainWindow()
     {
+      Xceed.Wpf.DataGrid.Licenser.LicenseKey = "DGP63-L8KXJ-X7K1P-0UAA";
       InitializeComponent();
     }
   }

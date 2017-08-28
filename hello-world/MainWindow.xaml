@@ -20,6 +20,12 @@
 
       <xceed:DataGridControl x:Name="dataGrid"
                              Background="DeepPink"
-                             Grid.Row="1" />
+                             Grid.Row="1">
+
+         <xceed:DataGridControl.Columns>
+            <xceed:Column FieldName="SomeColumn"
+                          Title="A column" />
+         </xceed:DataGridControl.Columns>
+      </xceed:DataGridControl>
    </Grid>
 </Window>
